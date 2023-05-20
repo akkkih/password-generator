@@ -23,7 +23,7 @@ The Password Generator Kotlin (PGKT) is a program that generates random password
 4. Compile the Kotlin source file:
 
    ```bash
-   kotlinc -include-runtime -d password-generator.jar PasswordGenerator.kt
+   kotlinc -include-runtime -d password-generator.jar Main.kt
    ```
 
 5. Run the program:
